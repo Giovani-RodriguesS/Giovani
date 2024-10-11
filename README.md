@@ -1,6 +1,6 @@
 # Olá, eu sou o Giovani! 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/giovani-rodrigues-61125b268) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/giovani-rodrigues-61125b268) 
 
 ## Sobre Mim
 
@@ -13,7 +13,7 @@ Atualmente, estou aprendendo sobre .
 - ![Terraform](https://img.shields.io/badge/Terraform-purple?style=flat-square&logo=terraform)
 
 
-## Projetos em Destaque
+## Projetos
 
 ### [Nome do Projeto 1]
 - **Descrição**: [Breve descrição do projeto].
@@ -27,14 +27,8 @@ Atualmente, estou aprendendo sobre .
 
 ## Habilidades
 
-- **Ferramentas de CI/CD**: [Ex: Jenkins, GitHub Actions].
-- **Contêineres**: [Ex: Docker, Kubernetes].
-- **Cloud Providers**: [Ex: AWS, Azure].
-- **Sistemas de Monitoramento**: [Ex: Prometheus, Grafana].
-- **Linguagens de Programação**: [Ex: Python, Bash].
-
-## Aprendizados Recentes
-
-- [Descreva algo que você aprendeu recentemente ou um curso que você fez].
-- [Descreva um projeto em que você trabalhou e o que aprendeu com ele].
-
+- **Ferramentas de CI/CD**:
+- **Contêineres**: Docker e Kubernetes;
+- **Cloud Providers**: Google Cloud Plataform;
+- **Sistemas de Monitoramento**: Prometheus, Grafana;
+- **Linguagens de Programação**: Python, Bash, Java, C#
